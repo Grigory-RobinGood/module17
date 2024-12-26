@@ -26,3 +26,4 @@ async def update_user():
 @router.delete('/delete')
 async def delete_user():
     pass
+
